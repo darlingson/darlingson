@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @darlingson
-- 👀 I’m interested in python,python django, Javascript
+- 👀 I’m interested in the following languages python,python, Javascript and php
+- 👀 I’m interested in the following frameworks python Django,laravel,bootstrap
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on twitter @dmakuwila
