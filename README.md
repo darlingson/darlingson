@@ -1,11 +1,5 @@
 - 👋 Hi, I’m @darlingson
-- 👀 I’m interested in the following languages python,python, Javascript and php
-- 👀 I’m interested in the following frameworks python Django,laravel,bootstrap
-- 🌱 I’m currently learning django, Laravel and Machine Learning algorithms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on twitter @dmakuwila
-
-<!---
-darlingson/darlingson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in the following languages C++, Dart, Python, Java, Javascript and PHP
+- 👀 I’m interested in the following frameworks Python Django, Flask, Laravel, Bootstrap, Flutter and Kotlin
+- 🌱 I’m currently learning Data Science (Machine Learning, AI and Data Analytics
+- 📫 you reach me on twitter @dmakuwila
