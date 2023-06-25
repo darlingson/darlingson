@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darlingson
 - 👀 I’m interested in the following languages C++, Dart, Python, Java, Javascript and PHP
 - 👀 I’m interested in the following frameworks Python Django, Flask, Laravel, Bootstrap, Flutter and Kotlin
-- 🌱 I’m currently learning Data Science (Machine Learning, AI and Data Analytics
+- 🌱 I’m currently learning Machine Learning, AI and Data Analytics
 - 📫 you reach me on twitter @dmakuwila
