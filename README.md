@@ -1,4 +1,4 @@
-👋 Hi, I’m @darlingson, I am a software developer and Data Scientist.
+👋 Hi, I’m @darlingson, I am a software developer and Data Scientist. <br>
 I Know the following Language :Kotlin, C#, C++, Dart, Python, Java, Javascript and PHP
 I Know the the following frameworks Python Django, Flask, Laravel, Bootstrap, Flutter and Kotlin
 I’m currently learning Machine Learning, AI and Data Analytics
