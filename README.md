@@ -10,3 +10,4 @@ I’m currently learning Machine Learning, AI and Data Analytics <br>
   <img src="https://github-readme-stats.vercel.app/api?username=darlingson&show_icons=true&theme=radical" alt="User GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darlingson&theme=radical&layout=compact" alt="Top Languages Card" />
 </p>
+![trophy](https://github-profile-trophy.vercel.app/?username=darlingson&theme=onedark)
