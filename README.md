@@ -56,6 +56,7 @@
 </div>
 
 ###
-##Links to deployed projects(both private and public)
-### https://mpira-stats.vercel.app/
-### http://text-malawisign.000webhostapp.com/
+## Links to deployed projects(both private and public)
+### https://mpira-stats.vercel.app/ (frontend using vue and backend using appwrite)
+### http://text-malawisign.000webhostapp.com/ (backend using Laravel)
+### https://nyumba-hunter.netlify.app/ (frontend using react and currently has no backend)
