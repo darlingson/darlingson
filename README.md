@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! My name is  Darlingson and I'm a System Developer from Blantyre, Malawi</h2>
-
+<h2 align="left">Hi 👋! My name is  Darlingson and I'm a Software Developer from Blantyre, Malawi</h2>
+<h3 align="center">I use code to solve problems</h3>
 ###
 
 <div align="center">
