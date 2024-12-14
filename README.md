@@ -62,4 +62,4 @@
 ### http://text-malawisign.000webhostapp.com/ (backend using Laravel)
 ### https://nyumba-hunter.netlify.app/ (frontend using react and currently has no backend)
 ### https://virtual-physics-lab-mauve.vercel.app/ (Uses ReactJS and MatterJS)
-### https://spend-saver.vercel.app
+### https://spend-saver.vercel.app (NuxtJs, Vue, Supabase, Gemini AI)
