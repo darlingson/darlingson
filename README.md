@@ -58,6 +58,7 @@
 
 ###
 ## Links to deployed projects(both private and public)
+### [Fast Budgeting tool | Built with reactjs, shadcn and tailwindcss](https://fast-budget-eight.vercel.app/)
 ### [Mpira Stats](https://mpira-stats.vercel.app) (frontend using vue and backend using appwrite)
 ### [text to sign language translator](https://text-to-sign-taupe.vercel.app/) (built using Nextjs)
 ### https://nyumba-hunter.netlify.app/ (frontend using react and currently has no backend)
