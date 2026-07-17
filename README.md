@@ -11,6 +11,16 @@
 
 ###
 
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=darlingson&theme=react-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darlingson&theme=react&hide_border=true" />
+</p>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
