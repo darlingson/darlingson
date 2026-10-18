@@ -52,6 +52,6 @@
 
 ###
 ## Links to deployed projects(both private and public)
-### [https://malawi-virtual-science-lab.vercel.app/](https://shine-ecru-kappa.vercel.app/)
+### [Shine | Malawi Football players database](https://shine-ecru-kappa.vercel.app/)
 ### [Fast Budgeting tool | Built with reactjs, shadcn and tailwindcss](https://fast-budget-eight.vercel.app/)
 ### [text to sign language translator](https://text-to-sign-taupe.vercel.app/) (built using Nextjs)
